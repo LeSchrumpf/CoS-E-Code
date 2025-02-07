@@ -17,7 +17,6 @@ We also provide attempts to reproduce the results discussed in that paper, altho
 
 
 STRUCTURE:
-
 You will find several folders here, all of which have their own readme file to explain how to use the files found there.
 
 
